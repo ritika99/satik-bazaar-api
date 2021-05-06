@@ -1,7 +1,7 @@
 [
   {
     "name": "Maybelline New York Hyper Curl Mascara - Waterproof Very Black",
-    "image": { "url": "c/9/c9a5862maybelline_vehcm__1_.jpg" },
+    "image": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/c/9/c9a5862maybelline_vehcm__1_.jpg",
     "price": 310,
     "discount": 25,
     "about": "9.2ml",
@@ -17,7 +17,7 @@
   },
   {
     "name": "Maybelline New York The Blushed Nudes Eye Shadow Palette",
-    "image": { "url": "6/9/6902395439967.1.jpg" },
+    "image": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/6/9/6902395439967.1.jpg",
     "price": 905,
     "discount": 35,
     "about": "9gm",
@@ -26,14 +26,14 @@
     "isStock": true,
     "brand": "Maybelline",
     "category": "Eyes",
-    "special": null,
+    "special": "",
     "offer": "Buy 1 Get 1",
     "fastDelivery": true,
     "freeShipping": true
   },
   {
     "name": "Lakme Eyeconic Kajal Twin Pack - Deep Black",
-    "image": { "url": "2/4/24272_h-8901030707988twin.jpg" },
+    "image": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/2/4/24272_h-8901030707988twin.jpg",
     "price": 320,
     "discount": 22,
     "about": "0.35gm Each",
@@ -49,7 +49,7 @@
   },
   {
     "name": "Lakme Absolute Kohl Ultimate The Gelato Collection - 06 Spearmint",
-    "image": { "url": "2/4/24416_h-8901030757051_1.jpg" },
+    "image": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/2/4/24416_h-8901030757051_1.jpg",
     "price": 800,
     "discount": 50,
     "about": "1.2gm",
@@ -59,13 +59,13 @@
     "brand": "Lakme",
     "category": "Eyes",
     "special": "New",
-    "offer": null,
+    "offer": "",
     "fastDelivery": false,
     "freeShipping": false
   },
   {
     "name": "L'Oreal Paris Brow Artist Genius Kit Medium To Dark",
-    "image": { "url": "/4/9/4935421250030_1.jpg" },
+    "image": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize//4/9/4935421250030_1.jpg",
     "price": 910,
     "discount": 30,
     "about": "0.35gm Each",
@@ -75,13 +75,13 @@
     "brand": "L'Oreal Paris",
     "category": "Eyes",
     "special": "Bestseller",
-    "offer": null,
+    "offer": "",
     "fastDelivery": false,
     "freeShipping": true
   },
   {
     "name": "Lakme Insta Eye Liner - Black",
-    "image": { "url": "/1/9/19647_h_2.jpg" },
+    "image": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize//1/9/19647_h_2.jpg",
     "price": 130,
     "discount": 30,
     "about": "9ml",
@@ -97,7 +97,7 @@
   },
   {
     "name": "Maybelline New York Hyper Glossy Liquid Liner - Black",
-    "image": { "url": "2/4/24272_h-8901030707988twin.jpg" },
+    "image": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/2/4/24272_h-8901030707988twin.jpg",
     "price": 310,
     "discount": 35,
     "about": "3gm",
@@ -107,13 +107,13 @@
     "brand": "Maybelline",
     "category": "Eyes",
     "special": "Bestseller",
-    "offer": null,
+    "offer": "",
     "fastDelivery": false,
     "freeShipping": true
   },
   {
     "name": "Maybelline New York Fit Me Matte+Poreless Liquid Foundation With Clay - 115 Ivory",
-    "image": { "url": "6/9/6902395742203.1_1_1.jpg" },
+    "image": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/6/9/6902395742203.1_1_1.jpg",
     "price": 549,
     "discount": 25,
     "about": "30ml",
@@ -129,7 +129,7 @@
   }, 
   {
     "name": "Maybelline New York Instant Age Rewind Eraser Multi-Use Concealer - Ivory",
-    "image": { "url": "4/1/41554259247-1_1.jpg" },
+    "image": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/4/1/41554259247-1_1.jpg",
     "price": 620,
     "discount": 50,
     "about": "6ml",
@@ -138,14 +138,14 @@
     "isStock": false,
     "brand": "Maybelline",
     "category": "Face",
-    "special": null,
-    "offer": null,
+    "special": "",
+    "offer": "",
     "fastDelivery": true,
     "freeShipping": true
   }, 
   {
     "name": "Lakme 9 to 5 Primer + Matte Powder Foundation Compact - Natural Cream / Light",
-    "image": { "url": "8/9/8901030654893_h.jpg" },
+    "image": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/8/9/8901030654893_h.jpg",
     "price": 575,
     "discount": 50,
     "about": "9gm",
@@ -161,7 +161,7 @@
   }, 
   {
     "name": "M.A.C Matte Powder Blush - Frankly Scarlet",
-    "image": { "url": "b/f/bf9f29amac_matpowbl_rv__1.jpg" },
+    "image": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/b/f/bf9f29amac_matpowbl_rv__1.jpg",
     "price": 2300,
     "discount": 0,
     "about": "6gm",
@@ -171,13 +171,13 @@
     "brand": "M.A.C",
     "category": "Face",
     "special": "New",
-    "offer": null,
+    "offer": "",
     "fastDelivery": false,
     "freeShipping": false
   }, 
   {
     "name": "Lakme 9 To 5 Complexion Care Face CC Cream SPF 30 PA++ - Beige",
-    "image": { "url": "l/a/lakme_ccfcrm.jpg" },
+    "image": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/l/a/lakme_ccfcrm.jpg",
     "price": 299,
     "discount": 20,
     "about": "30g",
@@ -193,7 +193,7 @@
   }, 
   {
     "name": "M.A.C Mineralize Skinfinish - Soft & Gentle",
-    "image": { "url": "2/4/24272_h-8901030707988twin.jpg" },
+    "image": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/2/4/24272_h-8901030707988twin.jpg",
     "price": 3100,
     "discount": 0,
     "about": "10gm",
@@ -203,13 +203,13 @@
     "brand": "M.A.C",
     "category": "Face",
     "special": "New",
-    "offer": null,
+    "offer": "",
     "fastDelivery": true,
     "freeShipping": true
   }, 
   {
     "name": "L'Oreal Paris Matte Signature Eyeliner - Brown",
-    "image": { "url": "1/d/1d5f29a773602338993_rv__1.jpg" },
+    "image": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/1/d/1d5f29a773602338993_rv__1.jpg",
     "price": 650,
     "discount": 20,
     "about": "2.5ml",
@@ -225,7 +225,7 @@
   },
   {
     "name": "Lakme 9 to 5 Weightless Matte Mousse Lip & Cheek Color - Nude Cushion",
-    "image": { "url": "2/4/24023_h-8901030654312_1_1.png" },
+    "image": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/2/4/24023_h-8901030654312_1_1.png",
     "price": 675,
     "discount": 50,
     "about": "9gm",
@@ -241,7 +241,7 @@
   }, 
   {
     "name": "M.A.C Retro Matte Lipstick - Runway Hit",
-    "image": { "url": "4/1/41554259247-1_1.jpg" },
+    "image": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/4/1/41554259247-1_1.jpg",
     "price": 1700,
     "discount": 0,
     "about": "3gm",
@@ -251,13 +251,13 @@
     "brand": "M.A.C",
     "category": "Lips",
     "special": "New",
-    "offer": null,
+    "offer": "",
     "fastDelivery": false,
     "freeShipping": false
   }, 
   {
     "name": "Lakme 9 to 5 Primer + Matte Powder Foundation Compact - Natural Cream / Light",
-    "image": { "url": "/3/8/38e529a773602284580_rv__1.jpg" },
+    "image": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize//3/8/38e529a773602284580_rv__1.jpg",
     "price": 1700,
     "discount": 0,
     "about": "3gm",
@@ -267,13 +267,13 @@
     "brand": "M.A.C",
     "category": "Lips",
     "special": "Bestseller",
-    "offer": null,
+    "offer": "",
     "fastDelivery": true,
     "freeShipping": false
   }, 
   {
     "name": "Lakme Absolute 3D Matte Lipstick - Peach Pinch",
-    "image": { "url": "0/c/0c3905b24533_h-8901030753664.jpg" },
+    "image": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/0/c/0c3905b24533_h-8901030753664.jpg",
     "price": 500,
     "discount": 46,
     "about": "3.6gm",
@@ -289,7 +289,7 @@
   }, 
   {
     "name": "Lakme Absolute Matte Revolution Lip Color - 305 Vintage Rust",
-    "image": { "url": "/l/k/lkm_matrev_1.jpg" },
+    "image": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize//l/k/lkm_matrev_1.jpg",
     "price": 800,
     "discount": 50,
     "about": "3.6g",
@@ -305,7 +305,7 @@
   }, 
   {
     "name": "Maybelline New York Color Show Intense Crayon - Passionate Plum",
-    "image": { "url": "8/9/8901526512591.jpg" },
+    "image": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/8/9/8901526512591.jpg",
     "price": 399,
     "discount": 35,
     "about": "3.5g",
@@ -314,14 +314,14 @@
     "isStock": true,
     "brand": "Maybelline",
     "category": "Lips",
-    "special": null,
-    "offer": null,
+    "special": "",
+    "offer": "",
     "fastDelivery": false,
     "freeShipping": true
   }, 
   {
     "name": "Maybelline New York Creamy Matte Lipstick Touch of Spice + Sensational Liquid Matte Lipstick Best Babe Combo",
-    "image": { "url": "n/y/nymaybln00828.jpg" },
+    "image": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/n/y/nymaybln00828.jpg",
     "price": 648,
     "discount": 30,
     "about": "3gm Each",
@@ -337,7 +337,7 @@
   },
   {
     "name": "Maybelline New York The 24K Nudes Eye Shadow Palette",
-    "image": { "url": "6/9/6902395487029.1.jpg" },
+    "image": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/6/9/6902395487029.1.jpg",
     "price": 900,
     "discount": 35,
     "about": "9gms",
@@ -347,13 +347,13 @@
     "brand": "Maybelline",
     "category": "Eyes",
     "special": "New",
-    "offer": null,
+    "offer": "",
     "fastDelivery": false,
     "freeShipping": false
   }, 
   {
     "name": "L'Oreal Paris Infallible Accessories Face Sculptor Duo Brush",
-    "image": { "url": "3/7/3760228170202_i1_main.jpg" },
+    "image": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/3/7/3760228170202_i1_main.jpg",
     "price": 1399,
     "discount": 25,
     "about": "1",
@@ -369,7 +369,7 @@
   }, 
   {
     "name": "Allure Essential Set of 6 Professional Face Brushes - RGKF 06",
-    "image": { "url": "7/e/7ea89397449333689668_1.jpg" },
+    "image": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/7/e/7ea89397449333689668_1.jpg",
     "price": 2199,
     "discount": 10,
     "about": "350gm",
@@ -379,13 +379,13 @@
     "brand": "Allure",
     "category": "Brushes",
     "special": "New",
-    "offer": null,
+    "offer": "",
     "fastDelivery": false,
     "freeShipping": false
   }, 
   {
     "name": "L'Oreal Paris Rouge Signature Matte Liquid Lipstick Pack of 2 - Shade 115 + 121",
-    "image": { "url": "8/9/8901526002351.png" },
+    "image": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/8/9/8901526002351.png",
     "price": 1300,
     "discount": 50,
     "about": "7ml Each",
@@ -401,7 +401,7 @@
   }, 
   {
     "name": "L'Oreal Paris Lip & Eye Kit 3 - Lash Paradise & Rouge Signature 141",
-    "image": { "url": "n/y/nylpbndl00638.jpg" },
+    "image": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/n/y/nylpbndl00638.jpg",
     "price": 800,
     "discount": 50,
     "about": "",
@@ -417,7 +417,7 @@
   }, 
   {
     "name": "Maybelline New York Master Blender Brush",
-    "image": { "url": "6/9/6902395635482_foundation-oval-brush_i0.jpg" },
+    "image": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/6/9/6902395635482_foundation-oval-brush_i0.jpg",
     "price": 499,
     "discount": 0,
     "about": "1",
@@ -426,14 +426,14 @@
     "isStock": false,
     "brand": "Maybelline",
     "category": "Brushes",
-    "special": null,
-    "offer": null,
+    "special": "",
+    "offer": "",
     "fastDelivery": false,
     "freeShipping": false
   }, 
   {
     "name": "Maybelline New York V-Face Duo Stick - Medium",
-    "image": { "url": "M/Y/MYN_VFCDOSTK.jpg" },
+    "image": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/M/Y/MYN_VFCDOSTK.jpg",
     "price": 670,
     "discount": 30,
     "about": "3gm Each",
@@ -449,7 +449,7 @@
   },
   {
     "name": "L'Oreal Paris Ideal Clean Makeup Removing Towelettes",
-    "image": { "url": "8/9/8901526512591.jpg" },
+    "image": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/8/9/8901526512591.jpg",
     "price": 415,
     "discount": 20,
     "about": "25 wipes",
@@ -458,14 +458,14 @@
     "isStock": true,
     "brand": "L'Oreal Paris",
     "category": "Face",
-    "special": null,
-    "offer": null,
+    "special": "",
+    "offer": "",
     "fastDelivery": true,
     "freeShipping": true
   }, 
   {
     "name": "Neutrogena Makeup Remover Towelettes",
-    "image": { "url": "4/8/483116.1.jpg" },
+    "image": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/4/8/483116.1.jpg",
     "price": 450,
     "discount": 0,
     "about": "25 wipes",
