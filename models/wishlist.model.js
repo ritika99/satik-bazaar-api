@@ -12,7 +12,7 @@ const WishlistSchema = new Schema(
     ],
     by: {
       type: mongoose.Schema.Types.ObjectId,
-      ref: "user",
+      ref: "User",
     },
   },
   { timestamps: true }
