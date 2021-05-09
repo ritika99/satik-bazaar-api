@@ -31,7 +31,7 @@ module.exports.addToCart = async (req, res) => {
     const newUser = await userDb.findById(id);
     const data = await (await cartDb.findById(newUser.cart)).execPopulate({
       path: "cartItems",
-      populate: { path: "Products" },
+      populate: { path: "product" },
     });
     return res.status(201).json({
       success: true,
@@ -57,12 +57,12 @@ module.exports.removeFromCart = async (req, res) => {
     } else {
       return res.status(400).json({
         success: false,
-        messafe: "Invalid request",
+        message: "Invalid request",
       });
     }
     const data = await (await cartDb.findById(user.cart)).execPopulate({
       path: "cartItems",
-      populate: { path: "Products" },
+      populate: { path: "product" },
     });
     return res.status(201).json({
       success: true,
@@ -96,7 +96,7 @@ module.exports.changeQuantity = async (req, res) => {
       await cart.save();
       const data = await (await cartDb.findById(user.cart)).execPopulate({
         path: "cartItems",
-        populate: { path: "Products" },
+        populate: { path: "product" },
       });
       return res.status(201).json({
         success: true,
@@ -126,7 +126,7 @@ module.exports.getAllCartItems = async (req, res) => {
     if (cart) {
       const data = await await cart.execPopulate({
         path: "cartItems",
-        populate: { path: "Products" },
+        populate: { path: "product" },
       });
       return res.status(200).json({
         success: true,
@@ -144,7 +144,7 @@ module.exports.getAllCartItems = async (req, res) => {
     console.log(error);
     return res.status(503).json({
       success: false,
-      message: "internal server error",
+      message: "Internal server error",
     });
   }
 };

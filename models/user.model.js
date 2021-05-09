@@ -20,11 +20,11 @@ const UserSchema = new Schema(
     },
     wishlist: {
         type: mongoose.Schema.Types.ObjectId,
-      ref: "Wishlist",
+        ref: "Wishlist",
     },
     cart: {
         type: mongoose.Schema.Types.ObjectId,
-      ref: "Cart",
+        ref: "Cart",
     },
   },
   {

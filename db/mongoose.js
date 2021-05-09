@@ -8,7 +8,7 @@ mongoose
     useNewUrlParser: true,
     useUnifiedTopology: true,
   })
-  .then(() => console.log("mongoose successfully connected"))
+  .then(() => console.log("mongoose connection successful"))
   .catch((err) => console.log("mongoose connection failed", err));
 
 const db = mongoose.connection;
